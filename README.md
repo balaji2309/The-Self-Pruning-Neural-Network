@@ -139,7 +139,6 @@ Generated automatically:
 │   ├── lambda_tradeoff.png
 │   ├── dashboard.png
 │   └── report.md
-├── data/
 └── README.md
 ```
 
